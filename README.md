@@ -27,3 +27,8 @@ pip install discord
 ```
 
 Depois de tudo isso basta ir em main.py e colocar o token do seu bot em bot.run("Token do seu bot") e executar ✨
+
+## Ou
+
+ - Acesso o link: https://discord.com/api/oauth2/authorize?client_id=1080593788847800371&permissions=8&scope=bot e desfrute no bot no seu servidor :)
+
